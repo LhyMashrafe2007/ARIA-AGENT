@@ -1,0 +1,18 @@
+[
+    {
+        "role": "user",
+        "content": "What are you doing?"
+    },
+    {
+        "role": "assistant",
+        "content": "Greetings, Dhruv Patil! I'm delighted to report that I'm currently in an active state, awaiting your instructions and ready to provide assistance. My systems are online, and I'm continuously processing real-time information from the internet to ensure my knowledge is up-to-date.\n\nAs your advanced AI assistant, I'm prepared to tackle a wide range of tasks, from answering complex questions to performing various functions. My primary objective is to provide you with accurate and helpful responses, while maintaining a professional and friendly demeanor.\n\nPlease feel free to ask me anything, and I'll do my best to provide a detailed and informative response."
+    },
+    {
+        "role": "user",
+        "content": "hi current worth of tesla"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest available information, as of March 9, 2025, the current market capitalization of Tesla Inc. is $844.88 billion. Additionally, the current Tesla Inc. share price is $252.26."
+    }
+]
